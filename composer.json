@@ -1,0 +1,20 @@
+{
+    "name": "lades/dotenv",
+    "description": "Biblioteca para a configuração das váriveis de ambiente.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vinicius Victor",
+            "email": "vinicius.ferreira6@estudante.ifms.edu.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lades\\DotEnv\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
